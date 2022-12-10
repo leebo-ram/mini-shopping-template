@@ -83,9 +83,8 @@ body {
 
 /* Items */
 .items {
-  /* background-color: salmon; */
-  width: 60%;
-  height: 60%;
+  width: 80%;
+  height: 90%;
   list-style: none;
   padding-left: 0;
   overflow-y: scroll;
@@ -108,3 +107,4 @@ body {
   margin-left: var(--base-space);
   font-size: var(--font-size);
 }
+
